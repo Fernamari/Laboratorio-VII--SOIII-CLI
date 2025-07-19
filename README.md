@@ -8,4 +8,4 @@ Este repositorio corresponde a los comandos utilizados durante el desarrollo del
 3. Creación de Dominio y cliente Windows, SAMBA4.
 
 El enlace a la lista de reproducción de YouTube correspondiente a este laboratorio es el siguiente:
-https://www.youtube.com/playlist?list=PLCMiYRFGJqigjbclxa747LrP2d_t6XAi_
+https://youtube.com/playlist?list=PLCMiYRFGJqigjbclxa747LrP2d_t6XAi_&si=prSnRUQe_dEEvIo5
